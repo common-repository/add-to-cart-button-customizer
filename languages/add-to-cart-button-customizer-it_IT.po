@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Add To Cart Button Customizer.\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-18 10:59+0000\n"
+"PO-Revision-Date: 2023-09-18 11:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Domain: add-to-cart-button-customizer"
+
+#: includes/admin/class-catcbfw-admin.php:467
+msgid " Set Icon Class"
+msgstr ""
+
+#: class-custom-add-to-cart-button-for-woocommerce.php:129
+msgid "Add To Cart Button Customizer"
+msgstr ""
+
+#: class-custom-add-to-cart-button-for-woocommerce.php:123
+#: class-custom-add-to-cart-button-for-woocommerce.php:124
+#: class-custom-add-to-cart-button-for-woocommerce.php:125
+msgid "Add To Cart Button Customizer Rule"
+msgstr ""
+
+#. Name of the plugin
+msgid "Add To Cart Button Customizer."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:423
+msgid "Add To Cart Button Text"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:129
+#: includes/admin/class-catcbfw-admin.php:136
+msgid "Add To Cart Styling"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:57
+msgid "Add to Cart Text"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:58
+msgid "Applied"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:675
+msgid "Border"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:693
+msgid "Border Radius"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:743
+#: includes/admin/class-catcbfw-admin.php:803
+msgid "Bottom"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:523
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:595
+msgid "Button Border Color"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:566
+msgid "Button Hover Background-Color"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:550
+msgid "Button Hover Color"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:508
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:476
+msgid "Click Here"
+msgstr ""
+
+#. Author of the plugin
+msgid "Cloud Technologies."
+msgstr ""
+
+#: class-custom-add-to-cart-button-for-woocommerce.php:127
+msgid "Edit Rule"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:359
+msgid "Enable Add to cart button Setting"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:661
+msgid "Enable Button Border And Border Radius"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:581
+msgid "Enable Button Border Color"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:536
+msgid "Enable Button Hover And Hove Background Color Styling"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:587
+msgid "Enable checkbox to button border color."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:667
+msgid "Enable checkbox to set button border and border radius ."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:542
+msgid "Enable checkbox to set hover and hover background color."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:774
+msgid "Enable checkbox to set margin."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:714
+msgid "Enable checkbox to set padding."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:365
+msgid "Enable checkbox to set Set Add to cart button Setting."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:501
+msgid "Enable checkbox to set text and background color."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:768
+msgid "Enable Margin"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:708
+msgid "Enable Padding"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:495
+msgid "Enable Text And Background Color Styling"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:256
+msgid "Excluded Products"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:611
+msgid "Font Size"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:629
+msgid "Font Weight"
+msgstr ""
+
+#. Description of the plugin
+msgid "Fully Customize your add to cart button."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://cloudtechnologies.store/"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:436
+msgid "Icon"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:228
+msgid "Included Products"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:326
+msgid "Leave empty to apply rule on all products."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:729
+#: includes/admin/class-catcbfw-admin.php:796
+msgid "Left"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:783
+msgid "Margin"
+msgstr ""
+
+#: class-custom-add-to-cart-button-for-woocommerce.php:131
+msgid "No Add To Cart Button Customizer found"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:722
+msgid "Padding"
+msgstr ""
+
+#: class-custom-add-to-cart-button-for-woocommerce.php:132
+msgid "Priority"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:305
+msgid "Product Tag"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:60
+msgid "Publish Date"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:617
+msgid "px"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:681
+msgid "px."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:122
+msgid "Restrictions"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:748
+#: includes/admin/class-catcbfw-admin.php:810
+msgid "Right "
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:59
+msgid "Rule Status"
+msgstr ""
+
+#: class-custom-add-to-cart-button-for-woocommerce.php:130
+msgid "Search Add To Cart Button Customizer"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:864
+msgid "Security Violate!"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:281
+msgid "Select Categories"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:205
+#: includes/admin/class-catcbfw-admin.php:399
+msgid "Select Pages"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:221
+#: includes/admin/class-catcbfw-admin.php:415
+msgid ""
+"Select pages on which you want to show custom add to cart Button . Leave "
+"empty to enable for all users."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:325
+msgid "Select Tags on which you want to show notification"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:197
+#: includes/admin/class-catcbfw-admin.php:391
+msgid ""
+"Select user roles to apply rule setting. Leave empty to enable for all users."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:181
+#: includes/admin/class-catcbfw-admin.php:375
+msgid "Select Users Roles"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:430
+msgid ""
+"Set add to cart button text. Leave empty to show default text. Use keyword "
+"{icon} to replace icon with text on any place  "
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:701
+msgid "Set border radius."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:685
+msgid "Set border."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:530
+msgid "Set button background color."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:603
+msgid "Set button border color."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:514
+msgid "Set button text color."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:475
+msgid ""
+"Set Class like fa fa fa-cart-plus you can find icon from font awesome by"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:621
+msgid "Set font size."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:654
+msgid "Set font weight."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:558
+#: includes/admin/class-catcbfw-admin.php:574
+msgid "Set hover color."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:823
+msgid "Set margin."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:761
+msgid "Set Padding."
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:736
+#: includes/admin/class-catcbfw-admin.php:788
+msgid "Top"
+msgstr ""
+
+#: includes/admin/class-catcbfw-admin.php:482
+msgid "Upload Custom Icon"
+msgstr ""
+
+#: class-custom-add-to-cart-button-for-woocommerce.php:128
+msgid "View Rule"
+msgstr ""

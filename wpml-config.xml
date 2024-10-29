@@ -1,0 +1,5 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="0">ct_cstm_add_t_c_btn</custom-type>
+  </custom-types>
+</wpml-config>
